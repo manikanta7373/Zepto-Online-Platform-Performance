@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,order_status,payment_method,total_amount,delivery_time_mins,delivery_partner
+1,57,2024-02-22 22:00:00,Placed,Cash,899.06,20,Zepto Logistics
+2,66,2024-11-04 20:00:00,Delivered,Wallet,478.45,36,Dunzo
+3,73,2024-03-03 17:00:00,Delivered,UPI,269.87,39,Shadowfax
+4,36,2024-11-17 07:00:00,Returned,UPI,1975.8,25,Dunzo
+5,75,2024-12-28 23:00:00,Delivered,Wallet,1490.99,40,Dunzo
+6,78,2024-07-30 17:00:00,Placed,Card,1918.69,23,Dunzo
+7,48,2024-02-08 18:00:00,Cancelled,Wallet,1360.78,16,Swiggy Genie
+8,76,2024-11-03 17:00:00,Returned,UPI,303.08,23,Dunzo
+9,71,2024-11-18 22:00:00,Cancelled,Cash,1722.38,21,Swiggy Genie
+10,30,2024-01-08 07:00:00,Cancelled,Card,690.71,15,Shadowfax
+11,6,2024-09-17 16:00:00,Returned,Wallet,122.35,44,Swiggy Genie
+12,49,2024-01-08 20:00:00,Cancelled,UPI,663.26,26,Zepto Logistics
+13,23,2024-02-06 11:00:00,Delivered,Wallet,142.27,8,Dunzo
+14,99,2024-06-12 21:00:00,Returned,Card,1096.19,39,Swiggy Genie
+15,10,2024-02-15 14:00:00,Delivered,Wallet,539.85,33,Zepto Logistics
+16,69,2024-08-26 18:00:00,Delivered,UPI,688.37,44,Dunzo
+17,30,2024-05-30 17:00:00,Cancelled,Cash,1527.79,34,Zepto Logistics
+18,75,2024-12-20 08:00:00,Cancelled,Card,152,44,Shadowfax
+19,99,2024-06-22 23:00:00,Placed,Card,560.55,38,Dunzo
+20,30,2024-08-13 08:00:00,Placed,Wallet,1814.3,9,Swiggy Genie
+21,7,2024-07-10 14:00:00,Cancelled,Wallet,1081.24,44,Zepto Logistics
+22,59,2024-05-17 10:00:00,Placed,UPI,1290.03,18,Shadowfax
+23,18,2024-04-29 10:00:00,Placed,UPI,382.62,21,Zepto Logistics
+24,47,2024-06-22 18:00:00,Placed,UPI,551.23,13,Shadowfax
+25,33,2024-11-21 10:00:00,Placed,Wallet,919.07,17,Dunzo
+26,71,2024-11-23 22:00:00,Cancelled,UPI,1560.02,21,Shadowfax
+27,47,2024-05-18 16:00:00,Cancelled,UPI,1805.13,25,Dunzo
+28,6,2024-07-24 12:00:00,Placed,Card,1777.02,29,Zepto Logistics
+29,51,2024-11-25 13:00:00,Cancelled,Wallet,862.61,35,Swiggy Genie
+30,42,2024-08-15 08:00:00,Cancelled,Card,1226.54,44,Swiggy Genie
+31,56,2024-11-29 22:00:00,Returned,Card,892.15,39,Shadowfax
+32,63,2024-12-05 07:00:00,Placed,UPI,1298.33,41,Shadowfax
+33,39,2024-09-30 08:00:00,Delivered,Wallet,1305.27,21,Swiggy Genie
+34,64,2024-10-22 09:00:00,Delivered,UPI,113.3,44,Zepto Logistics
+35,66,2024-10-13 06:00:00,Returned,Wallet,626.87,38,Shadowfax
+36,53,2024-09-20 07:00:00,Placed,UPI,1830.48,8,Dunzo
+37,96,2024-07-10 10:00:00,Placed,Wallet,1272.65,44,Swiggy Genie
+38,22,2024-03-14 15:00:00,Placed,Card,1725.89,40,Swiggy Genie
+39,89,2024-02-04 12:00:00,Returned,Wallet,1476.63,8,Dunzo
+40,4,2024-05-05 07:00:00,Returned,UPI,1144.29,28,Swiggy Genie
+41,90,2024-04-04 13:00:00,Placed,UPI,1094.67,11,Shadowfax
+42,19,2024-01-02 11:00:00,Returned,Cash,1717.12,20,Zepto Logistics
+43,71,2024-09-10 20:00:00,Returned,Card,1120.02,37,Zepto Logistics
+44,18,2024-03-22 21:00:00,Returned,UPI,987.95,39,Swiggy Genie
+45,71,2024-02-04 23:00:00,Placed,UPI,162.69,41,Dunzo
+46,71,2024-09-03 09:00:00,Delivered,Card,246.02,10,Zepto Logistics
+47,95,2024-12-30 08:00:00,Cancelled,Cash,1641.08,23,Dunzo
+48,65,2024-11-25 21:00:00,Returned,Card,380.04,35,Swiggy Genie
+49,76,2024-10-05 10:00:00,Placed,Card,1441.58,14,Shadowfax
+50,86,2024-12-03 13:00:00,Placed,UPI,763.72,23,Zepto Logistics
+51,6,2024-08-19 23:00:00,Placed,Wallet,1664.7,32,Dunzo
+52,81,2024-12-15 12:00:00,Delivered,Cash,1815.4,26,Zepto Logistics
+53,56,2024-07-20 16:00:00,Delivered,Card,1245.76,12,Zepto Logistics
+54,100,2024-08-17 22:00:00,Cancelled,Wallet,793.6,40,Zepto Logistics
+55,2,2024-12-06 12:00:00,Delivered,Wallet,723.02,24,Dunzo
+56,44,2024-01-18 23:00:00,Placed,Card,471.95,17,Zepto Logistics
+57,89,2024-12-18 16:00:00,Cancelled,Card,1539.5,19,Zepto Logistics
+58,63,2024-12-04 23:00:00,Placed,UPI,1983.94,21,Swiggy Genie
+59,2,2024-07-17 19:00:00,Returned,Card,1224.6,9,Shadowfax
+60,60,2024-03-14 17:00:00,Cancelled,Card,1013.93,38,Shadowfax
+61,38,2024-04-30 22:00:00,Placed,UPI,143.15,33,Shadowfax
+62,83,2024-08-16 12:00:00,Cancelled,Wallet,656.23,23,Swiggy Genie
+63,20,2024-11-02 19:00:00,Delivered,Card,847.32,18,Dunzo
+64,71,2024-09-04 13:00:00,Placed,Wallet,1181.94,44,Swiggy Genie
+65,24,2024-03-15 14:00:00,Placed,Card,289.07,15,Swiggy Genie
+66,24,2024-01-08 11:00:00,Placed,Card,492.33,29,Zepto Logistics
+67,4,2024-01-13 06:00:00,Cancelled,Cash,1255.11,15,Swiggy Genie
+68,69,2024-02-03 09:00:00,Delivered,Card,1140.54,18,Dunzo
+69,11,2024-12-27 10:00:00,Cancelled,Card,739.92,17,Zepto Logistics
+70,82,2024-06-30 14:00:00,Placed,Card,1880.92,25,Shadowfax
+71,75,2024-08-10 16:00:00,Cancelled,Card,1153.09,41,Dunzo
+72,90,2024-03-30 06:00:00,Delivered,Cash,935.46,14,Swiggy Genie
+73,95,2024-01-15 07:00:00,Returned,Wallet,831.66,39,Swiggy Genie
+74,8,2024-05-11 10:00:00,Placed,Wallet,1590.21,45,Zepto Logistics
+75,66,2024-04-17 08:00:00,Cancelled,UPI,315.57,34,Dunzo
+76,9,2024-05-09 18:00:00,Cancelled,Cash,453.46,29,Swiggy Genie
+77,62,2024-05-17 22:00:00,Delivered,UPI,360.09,40,Shadowfax
+78,10,2024-11-28 10:00:00,Cancelled,Cash,1261.02,8,Shadowfax
+79,45,2024-01-10 13:00:00,Delivered,Card,1308.89,44,Swiggy Genie
+80,100,2024-09-18 20:00:00,Returned,UPI,1832.67,15,Dunzo
+81,37,2024-03-23 16:00:00,Delivered,UPI,1149.7,40,Swiggy Genie
+82,74,2024-06-13 19:00:00,Placed,Card,1727.41,35,Swiggy Genie
+83,21,2024-01-15 20:00:00,Returned,Card,1519.02,39,Zepto Logistics
+84,43,2024-07-07 21:00:00,Cancelled,Cash,1637.71,33,Zepto Logistics
+85,8,2024-07-27 21:00:00,Returned,Card,640.75,37,Zepto Logistics
+86,73,2024-08-06 14:00:00,Cancelled,Cash,1521.88,35,Zepto Logistics
+87,82,2024-05-27 09:00:00,Placed,Card,1160.86,23,Zepto Logistics
+88,70,2024-06-06 22:00:00,Returned,Card,1617.97,45,Zepto Logistics
+89,36,2024-09-19 12:00:00,Returned,UPI,1987.1,29,Dunzo
+90,36,2024-03-31 10:00:00,Placed,Cash,1570.58,33,Swiggy Genie
+91,19,2024-10-01 23:00:00,Delivered,Cash,958.17,42,Swiggy Genie
+92,71,2024-01-12 15:00:00,Delivered,Cash,1221.44,41,Zepto Logistics
+93,67,2024-05-31 10:00:00,Delivered,Card,1742.94,45,Swiggy Genie
+94,34,2024-06-26 09:00:00,Returned,UPI,1678.76,30,Dunzo
+95,19,2024-12-26 06:00:00,Delivered,UPI,1852.73,24,Shadowfax
+96,98,2024-10-27 12:00:00,Returned,Cash,1923.99,32,Dunzo
+97,28,2024-07-31 08:00:00,Delivered,UPI,874.31,8,Zepto Logistics
+98,75,2024-12-30 11:00:00,Delivered,Cash,760.46,17,Shadowfax
+99,50,2024-09-29 13:00:00,Returned,Cash,1231.78,31,Dunzo
+100,67,2024-02-15 06:00:00,Cancelled,Wallet,291.69,24,Dunzo
